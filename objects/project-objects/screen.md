@@ -36,7 +36,7 @@ The `Color` **Attribute** defines the background color of the **Simulation** and
 
 In terms of options, `Mode` changes the way the effect is calculated, with `fast` being quicker than `accurate`, which may give better results at the expense of some calculation speed.
 
-`Enabled` enables/disables the effect entirely. Turning the effect off is of course the quickest option, and should be considered if it isn't necessary or you are having performance issues. Another point worth noting is that **FXAA** doesn't consider movement at all, and may produce undesirable results in cases where you have fast-moving objects.
+`Enabled` enables/disables the effect entirely. Turning the effect off is of course the most-performance-friendly option, and should be considered if it isn't necessary or you are having performance issues. Another point worth noting is that **FXAA** doesn't consider movement at all, and may produce undesirable results in cases where you have fast-moving objects.
 
 ![](../../.gitbook/assets/fxaa.gif)
 
