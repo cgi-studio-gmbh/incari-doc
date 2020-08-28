@@ -1,7 +1,13 @@
 # Asset Manager
 
 ## Overview 
-The **Asset Manager** is an organized collection of **Assets** that can be readily created, imported, deleted and updated. Below, you will find a depiction of the **Asset Manager** and its features.
+The **Asset Manager** is an organized collection of **Assets** that can be readily created, imported, deleted and updated. 
+
+In order to open the **Asset Manager**,  *right-click* on the *file menu bar* in Incari and *click* on **Asset Manager** from the drop-down list. This can be seen in the illustration below:
+
+![](../.gitbook/assets/interface/asset-manager/open-asset-manager.PNG) 
+
+Also, you will find a depiction of the **Asset Manager** and its features below:
 
 ![](../.gitbook/assets/interface/asset-manager/asset-manager.PNG) 
 
@@ -36,7 +42,3 @@ A `New Folder` can be created in the following ways:
 * *Clicking* on the *plus icon* button ![](../.gitbook/assets/interface/asset-manager/plusIcon.PNG) and then the `New Folder` button from the drop-down list in the toolbar. 
 
 * Also, a `New Folder` can be created by right-clicking on either the left panel or right panel and selecting the `New Folder` button.
-
-
-
-
