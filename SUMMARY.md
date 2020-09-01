@@ -10,6 +10,7 @@
 ## Interface
 * [Logic Editor](interface/logic-editor.md)
 * [Project Outliner](interface/project-outliner.md)
+* [Model Editor](interface/model-editor.md)
 
 ## Objects
 * [Project Objects](objects/project-objects/README.md)
