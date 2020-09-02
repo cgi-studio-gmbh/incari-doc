@@ -26,7 +26,7 @@ New **Assets** can be imported in the following ways:
 
 * *Right-clicking* in the left panel of the `folder tree view` > `Import Assets`. 
   
-* *Dragging and Dropping* **Assets** from your local system into the **Asset Manager**. This option also allows you to add **Asset** folders to the **Assert Manager**.
+* *Dragging and Dropping* **Assets** from your local system into the **Asset Manager**. This option also allows you to add **Asset** folders to the **Asset Manager**.
 
 ## Create Assets
 New **Assets** can be created by *right-clicking* in the right panel of the `folder tree view` &gt; `Create Asset` &gt; *the type of **Asset** desired from the drop-down list*.
