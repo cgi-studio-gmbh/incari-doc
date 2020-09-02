@@ -7,12 +7,10 @@ In order to open the **Asset Manager**,  *right-click* on the *file menu bar* in
 
 ![](../.gitbook/assets/interface/asset-manager/open-asset-manager.PNG) 
 
-Also, you will find a depiction of the **Asset Manager** and its features below:
-
 ![](../.gitbook/assets/interface/asset-manager/asset-manager.PNG) 
 
-## Views in the Assert Manager 
-The **Assert Manager** can be *toggled* between a `flat` or `folder` `tree` `view` by clicking on the *stripe icon* ![](../.gitbook/assets/interface/asset-manager/stripeIcon.PNG) located in the toolbar of the **Asset Manager**.
+## Views in the Asset Manager 
+The **Asset Manager** can be *toggled* between a `flat` or `folder` `tree` `view` by clicking on the *stripe icon* ![](../.gitbook/assets/interface/asset-manager/stripeIcon.PNG) located in the toolbar of the **Asset Manager**.
 
 The `flat tree` `view` shows **Assets** in a single-panel window while the `folder tree view` shows **Assets** in a dual-panel window. 
 
@@ -27,6 +25,8 @@ New **Assets** can be imported in the following ways:
 * *Clicking* on the *plus icon* button ![](../.gitbook/assets/interface/asset-manager/plusIcon.PNG) in the toolbar and then the `Import Assets` button from the drop-down list.
 
 * *Right-clicking* in the left panel of the `folder tree view` > `Import Assets`. 
+  
+* *Dragging and Dropping* **Assets** from your local system into the **Asset Manager**. This option also allows you to add **Asset** folders to the **Assert Manager**.
 
 ## Create Assets
 New **Assets** can be created by *right-clicking* in the right panel of the `folder tree view` &gt; `Create Asset` &gt; *the type of **Asset** desired from the drop-down list*.
