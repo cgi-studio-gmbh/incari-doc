@@ -4,8 +4,6 @@
 
 The **Screen Object** in Incari contains the technical specifications of the physical display that is used to render a **Scene**. Also, it has **Attributes** relating to the virtual **Camera**, the **Simulation Window** and post-processing effects during rendering.
 
-Note: **Screen Objects** pass on **Attributes** to [**Scene Objects**](scene.md) that are created from them.  
-
 ## Attributes
 
 A **Screen's Attributes** can be edited by selecting it in the **Project Outliner** and adjusting them in its **Attribute Editor**.
