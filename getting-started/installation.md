@@ -2,7 +2,7 @@
 
 To install Incari, follow the steps below:
 
-1. Visit the [Incari website]() and download the [Incari Studio-2.0.0-installer.exe](http://relaunch.cgi-studio.com/incari-studio/). You will need to register for an Incari Studio account in order to download the installer.
+1. Visit the [Incari website]() and download the [Incari Studio-2.0.0-installer.exe](www.cgi-studio.com). You will need to register for an Incari Studio account in order to download the installer.
    
 2. Execute the Incari Studio-2.0.0-installer.exe and follow the instructions.
 
