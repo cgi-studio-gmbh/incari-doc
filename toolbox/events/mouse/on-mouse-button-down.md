@@ -2,7 +2,7 @@
 
 ![The On Mouse Button Down Node.](../../../.gitbook/assets/toolbox/incari/events/OnMouseButtonDownNode.png)
 
-**On Mouse Button Down**
+**On Mouse Button Down** node will be triggered when you click (mouse down press) the **Object** supplied to the **Attributes**'s **Object** section.
 
 # Attributes
 

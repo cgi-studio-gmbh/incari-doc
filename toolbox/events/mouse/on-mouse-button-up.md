@@ -2,7 +2,7 @@
 
 ![The On Mouse Button Up Node.](../../../.gitbook/assets/toolbox/incari/events/OnMouseButtonUpNode.PNG)
 
-**On Mouse Button Up**
+**On Mouse Button Up** is triggered when you release the downward press motion of a mouse click on an **Object** supplied to the **Attributes**'s **Object** section.
 
 # Attributes
 

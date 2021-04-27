@@ -52,6 +52,8 @@
     * [On Mouse Button Down](toolbox/events/mouse/on-mouse-button-down.md)
     * [On Mouse Button Up](toolbox/events/mouse/on-mouse-button-up.md)
     * [On Mouse Click](toolbox/events/mouse/on-mouse-click.md)
+    * [On Mouse Double Click](toolbox/events/mouse/on-mouse-double-click.md)
+    * [On Mouse Move](toolbox/events/mouse/on-mouse-move.md)
 * [Flow Control](toolbox/flow-control/README.md)
   * [Branch](toolbox/flow-control/branch.md)
   * [Is Equal](toolbox/flow-control/is-equal.md)

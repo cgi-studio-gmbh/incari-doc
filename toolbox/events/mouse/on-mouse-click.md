@@ -2,7 +2,7 @@
 
 ![The On Mouse Click Node.](../../../.gitbook/assets/toolbox/incari/events/OnMouseClickNode.PNG)
 
-**On Mouse Click**.
+**On Mouse Click** node is triggered when you click on the **Object** supplied to the **Attribute**'s **Object** section.
 
 # Attributes
 
