@@ -1,8 +1,8 @@
 # Overview
 
-![The On Mouse Button Down Node.](../../../.gitbook/assets/toolbox/incari/events/OnMouseButtonDownNode.png)
+![The On Mouse Button Down Node.](../../../.gitbook/assets/toolbox/events/OnMouseButtonDownNode.png)
 
-**On Mouse Button Down** node will be triggered when you click (mouse down press) the **Object** supplied to the **Attributes**'s **Object** section.
+**On Mouse Button Down** **Node** will be triggered when a mouse downward press motion is made over an **Object** supplied to the **Attributes**'s **Object** section.
 
 # Attributes
 
@@ -24,4 +24,6 @@
 
 # See Also
 [**On Mouse Button Up**](on-mouse-button-up.md)
+
+[**On Mouse Click**](on-mouse-click.md)
 

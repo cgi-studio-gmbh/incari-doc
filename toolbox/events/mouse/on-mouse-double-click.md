@@ -1,19 +1,19 @@
 # Overview
 
-![The On Mouse Double Click Node.](../../../.gitbook/assets/toolbox/incari/events/OnMouseDoubleClick.PNG)
+![The On Mouse Double Click Node.](../../../.gitbook/assets/toolbox/events/OnMouseDoubleClick.PNG)
 
-Double-clicking on an **Object** supplied to the **Attributes**'s **Object** section will trigger the **On Mouse Double Click** event.
+Double-clicking on an **Object** supplied to the **Attributes**'s **Object** section will trigger the **On Mouse Double Click** **Node**.
 
 # Attributes
 ## Object
 |Attribute|Type|Description|
 |---|---|---|
-|`Object`|**ObjectID**|Double clicking on this **Object** will trigger the **On Mouse Double Click Node**.|
+|`Object`|**ObjectID**|Double clicking on this **Object** will trigger the **On Mouse Double Click** **Node**.|
 
 ## Button
 |Attribute|Type|Description|
 |---|---|---|
-|`Mouse Button`|**Drop-down**|The `Mouse Button` (Left, Middle or Right) you wish to double-click, in order to trigger the **On Mouse Double Click Node**. |
+|`Mouse Button`|**Drop-down**|The `Mouse Button` (LeftMiddle/Right) you wish to double-click, in order to trigger the **On Mouse Double Click** node. |
 
 # Outputs
 
@@ -25,3 +25,5 @@ Double-clicking on an **Object** supplied to the **Attributes**'s **Object** sec
 [**On Mouse Button Up**](on-mouse-button-up.md)
 
 [**On Mouse Button Down**](on-mouse-button-down.md)
+
+

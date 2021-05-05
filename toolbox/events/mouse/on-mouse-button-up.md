@@ -1,6 +1,6 @@
 # Overview
 
-![The On Mouse Button Up Node.](../../../.gitbook/assets/toolbox/incari/events/OnMouseButtonUpNode.PNG)
+![The On Mouse Button Up Node.](../../../.gitbook/assets/toolbox/events/OnMouseButtonUpNode.PNG)
 
 **On Mouse Button Up** is triggered when you release the downward press motion of a mouse click on an **Object** supplied to the **Attributes**'s **Object** section.
 
@@ -9,12 +9,12 @@
 ## Object
 |Attribute|Type|Description|
 |---|---|---|
-|`Object`|**ObjectID**|Releasing the mouse button on this **Object** will trigger the **On Mouse Button Up Node**.|
+|`Object`|**ObjectID**|Releasing the mouse button on this **Object** will trigger the **On Mouse Button Up** **Node**.|
 
 ## Button
 |Attribute|Type|Description|
 |---|---|---|
-|`Mouse Button`|**Drop-down**|The pressed `Mouse Button` (left, middle or right) you wish to release, in order to trigger the **On Mouse Button Up Node**. |
+|`Mouse Button`|**Drop-down**|The pressed `Mouse Button` (Left/Middle/Right) you wish to release, in order to trigger the **On Mouse Button Up Node**. |
 
 # Outputs
 
@@ -24,4 +24,6 @@
 
 # See Also
 [**On Mouse Button Down**](on-mouse-button-down.md)
+
+[**On Mouse Click**](on-mouse-click.md)
 
