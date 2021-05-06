@@ -1,0 +1,29 @@
+# Overview
+
+![The On Mouse Button Up Node.](../../../.gitbook/assets/toolbox/events/OnMouseButtonUpNode.PNG)
+
+**On Mouse Button Up** is triggered when you release the downward press motion of a mouse click on an **Object** supplied to the **Attributes**'s **Object** section.
+
+# Attributes
+
+## Object
+|Attribute|Type|Description|
+|---|---|---|
+|`Object`|**ObjectID**|Releasing the mouse button on this **Object** will trigger the **On Mouse Button Up** **Node**.|
+
+## Button
+|Attribute|Type|Description|
+|---|---|---|
+|`Mouse Button`|**Drop-down**|The pressed `Mouse Button` (Left/Middle/Right) you wish to release, in order to trigger the **On Mouse Button Up Node**. |
+
+# Outputs
+
+|Output|Type|Description|
+|---|---|---|
+|*Pulse Output* (►)|**Pulse**|A standard **Output Pulse**, to move onto the next **Node** along the **Logic Branch**, once this **Node** has finished its execution.|
+
+# See Also
+[**On Mouse Button Down**](on-mouse-button-down.md)
+
+[**On Mouse Click**](on-mouse-click.md)
+
