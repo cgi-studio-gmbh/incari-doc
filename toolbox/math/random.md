@@ -4,7 +4,7 @@
 
 The **Random** **Node** outputs a random number.
 
-This **Node** can be set to three different **Modes** (**Advanced**, **Expert**, and **Standard**). Each of these **Modes** 
+This **Node** can be set to three different **Modes** (**Advanced**, **Expert**, and **Standard**). Each of these **Modes** give different options for the generation and distribution of the random numbers generated.
 
 # Attributes
 
@@ -15,16 +15,17 @@ This **Node** can be set to three different **Modes** (**Advanced**, **Expert**,
 |Attribute|Type|Description|
 |---|---|---|
 | `Is deterministic` | **Bool** | |
-| `Seed` | | |
+| `Seed` | **Int** | |
 
 ### Distribution
 
 |Attribute|Type|Description|
 |---|---|---|
 | `Distribution` | **Drop-down** | |
-| `Data Type` | | |
-| `Minimum` | | |
-| `Maximum` | | |
+| `Data Type` | **Drop-down** | |
+| `Minimum` | _Defined in the `Data Type` **Attribute**_ | |
+| `Maximum` | _Defined in the `Data Type` **Attribute**_ | |
+
 ## Expert 
 
 ### Generator
@@ -32,7 +33,7 @@ This **Node** can be set to three different **Modes** (**Advanced**, **Expert**,
 |Attribute|Type|Description|
 |---|---|---|
 | `Generator` | **Drop-down** | |
-| `Seed` | **Int** (not available for non_deterministic) | |
+| `Seed` | **Int** (*not available for non_deterministic*) | |
 
 ### Distribution
 
@@ -40,8 +41,8 @@ This **Node** can be set to three different **Modes** (**Advanced**, **Expert**,
 |---|---|---|
 | `Distribution` | **Drop-down** | |
 | `Data Type` | **Drop-down** | |
-| `Minimum` | | |
-| `Maximum` | | |
+| `Minimum` | _Defined in the `Data Type` **Attribute**_ | |
+| `Maximum` | _Defined in the `Data Type` **Attribute**_ | |
 ## Standard
 
 ### Distribution
@@ -49,8 +50,8 @@ This **Node** can be set to three different **Modes** (**Advanced**, **Expert**,
 |Attribute|Type|Description|
 |---|---|---|
 | `Data Type` | **Drop-down** | |
-| `Minimum` | | |
-| `Maximum` | | |
+| `Minimum` | _Defined in the `Data Type` **Attribute**_ | |
+| `Maximum` | _Defined in the `Data Type` **Attribute**_ | |
 
 # Inputs
 
@@ -63,6 +64,7 @@ This **Node** can be set to three different **Modes** (**Advanced**, **Expert**,
 |Output|Type|Description|
 |---|---|---|
 |*Pulse Output* (►)|**Pulse**|A standard **Output Pulse**, to move onto the next **Node** along the **Logic Branch**, once this **Node** has finished its execution.|
+| `Output` | _Defined in the `Data Type` **Attribute**_ | |
 
 # See Also
 
