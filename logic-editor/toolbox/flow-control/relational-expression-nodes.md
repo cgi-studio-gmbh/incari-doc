@@ -21,7 +21,7 @@ A usage example would be to test if a user has provided the correct PIN, or if t
 
 ### Inputs
 
-![The type can be specified from the drop-down menu in the Node attribute editor.](../../../.gitbook/assets/isequaltypes%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![The type can be specified from the drop-down menu in the Node attribute editor.](../../../.gitbook/assets/isequaltypes%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 The node takes two inputs of the _same_ [**type**](../../data-types/).
 
@@ -50,7 +50,7 @@ This node tests two values of the _same_ [**type**](../../data-types/) to see if
 
 ### Inputs
 
-![The type can be specified from the drop-down menu in the Node attribute editor.](../../../.gitbook/assets/isequaltypes%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![The type can be specified from the drop-down menu in the Node attribute editor.](../../../.gitbook/assets/isequaltypes%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 The node takes two inputs of the _same_ [**type**](../../data-types/).
 
@@ -81,7 +81,7 @@ A usage example would be to check if a tire's pressure drops below a certain amo
 
 ### Inputs
 
-![The type can be specified from the drop-down menu in the Node attribute editor.](../../../.gitbook/assets/isequaltypes%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![The type can be specified from the drop-down menu in the Node attribute editor.](../../../.gitbook/assets/isequaltypes%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 The node takes two inputs of the _same_ [**type**](../../data-types/).
 
