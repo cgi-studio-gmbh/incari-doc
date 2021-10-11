@@ -2,7 +2,7 @@
 
 Installation and licensing:
 
-1. Download the **Incari Studio** installer \(`Incari Studio-2021.3.0-installer.exe`\) from the [**Incari** website](https://www.incari.com/).
+1. Download the **Incari Studio** installer \(`Incari Studio-2021.3.0-installer.exe`\) from the **Incari** [website](https://www.incari.com/).
 2. Execute `Incari Studio-2021.3.0-installer.exe` and follow the instructions.
 3. Click "Next" to proceed and go through the installation process.
 
