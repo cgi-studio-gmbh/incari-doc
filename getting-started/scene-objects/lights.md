@@ -53,7 +53,7 @@ There is no 'one size fits all' setup for **Shadow Mapping**. It is invariably a
 
 ### Resolution
 
-`Resolution` alters the size of the shadow map. Just like with normal 2D textures, higher resolutions produce better quality, at the cost of increasing processing time and file size.
+`Resolution` alters the size of the shadow map. Just like with normal *2D* textures, higher resolutions produce better quality, at the cost of increasing processing time and file size.
 
 ![](../../.gitbook/assets/resolution.gif)
 
