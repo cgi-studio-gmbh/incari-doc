@@ -4,7 +4,7 @@
 
 ![The Set Scale Node.](../../../.gitbook/assets/set-scale.PNG)
 
-**Set Scale** sets the value of a given **Object**'s `Scale` **Attribute**.
+**Set Scale** sets the value of a given **Object's** `Scale` **Attribute**.
 
 ## Attributes
 
