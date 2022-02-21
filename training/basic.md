@@ -350,8 +350,9 @@ Here, the categories of possible properties are highlighted with red boxes. The 
 
 ### Image Sequence Editor
 
-The **Image Sequence Editor** allows the user to create and edit **Image Sequences**, which have the extension `.incseq` in the **Asset Manager**. 
-It’s a flexible tool to create custom **Animations** depending on project needs.
+The **Image** **Sequence** **Editor** allows the user to create and edit **Image** **Sequences**, which have the extension `.incseq` in the **Asset** **Manager**. 
+
+It’s a flexible tool to create custom animations depending on the specific  needs of the project. For example, it can be used to create two-state icons with on/off states or even highly complex **Image** **Sequences** that are made up hundreds of frames! Later, the user can easily manipulate the **Image Sequence** animation from the **Logic** **Editor** by adjusting time and speed, choosing the start and end frame to be played, and so on.
 
 Once an **Image Sequence** is open in the **Image Sequence Editor**, images can be added or removed from the sequence and their order can be changed.
 
@@ -364,6 +365,29 @@ To add an image to the **Image Sequence**, drag it from the **Asset Manager**.
 ![](../.gitbook/assets/image-seq-add.gif)
 
 Additionally, to remove an image from the sequence, select it and either right-click it and choose `delete` or press `del`. To move an image within the sequence, drag it and drop it in the desired position.
+
+
+###  Animation Editor
+
+
+The **Animation Editor** is used for creating and editing **Keyframe**-based timeline animations, which have the file extension `.incani`. It can either be opened from the `View` drop-down Menu on the top panel of **Incari**, or by right-clicking on the Menu bar in **Incari** and clicking on **Animation Editor** from the drop-down list, or simply by double-clicking an **Animation** **Asset** in the **Asset Manager**. 
+
+![](../.gitbook/assets/animation-editor2.png)
+
+It's easy to create new **Animations** and then drag and drop scene elements to Animation Editor inside of the Animation Editor. 
+The user can choose the property to animate, alter its length, and play with **Animation** Bézier curves. The main window, which contains all the options to create and edit an **Animation**, is shown below. 
+
+![](../.gitbook/assets/animation-editor3.png)
+
+
+![](../.gitbook/assets/animation-editor-top-panel.png)
+
+
+Present live player - it works without running the whole application
+
+Adjust view on the curve
+
+Add/Remove keyframes 
 
 
 
