@@ -2,7 +2,7 @@
 
 **Incari** has three types of **Light Objects**: the **Spot Light**, the **Point Light**, and the **Directional Light**.
 
-The **Point** **Light** is _omnidirectional_, meaning that light is emitted equally in all directions; the **Spot Light** is _directional_ and will only light the area that it is rotated towards; and when a **Directional Light** is used, the rays of light are parallel to each other, illuminating as if from a far off distance and lighting objects equally, like the sun. Additionally, unlike **Point Light**, **Spot Light** and **Directional Light** support shadow mapping and have an extra set of **Attributes** for that purpose.
+The **Point** **Light** is _omnidirectional_, meaning that light is emitted equally in all directions; the **Spot Light** is _directional_ and will only light the area that it is rotated towards; and when a **Directional Light** is used, the rays of light are parallel to each other, illuminating as if from a far off distance and lighting objects equally, like the sun. Additionally, **Spot Light** and **Directional Light** support shadow mapping and have an extra set of **Attributes** for that purpose. On the other hand, this is not possible for **Point Light**.
 
 | Attribute | Spot Light | Point Light | Directional Light |
 | :--- | :--- | :--- | :--- |
@@ -11,8 +11,6 @@ The **Point** **Light** is _omnidirectional_, meaning that light is emitted equa
 | `Attenuation` | ✔ | ✔ | ✘ |
 | `Radial Falloff` | ✔ | ✘ | ✘ |
 | `Shadow Mapping` | ✔ | ✘ | ✔ |
-
-## Light
 
 ### Color
 
@@ -44,7 +42,7 @@ This **Attribute** is only available on the **Spot Light Object**.
 
 ## Shadow Mapping
 
-**Shadow Mapping** is a performant method of approximating shadows in real-time. Without getting too technical, **Shadow Mapping** takes the depth and normal passes of the **Scene** from the perspective of the **Spot Light** or **Directional Light**, calculates which areas are occluded, and projects the shadow map onto the **Scene**.
+**Shadow Mapping** is a method of approximating shadows in real-time. **Shadow Mapping** takes the depth and normal passes of the **Scene** from the perspective of the **Spot Light** or **Directional Light**, calculates which areas are occluded, and projects the shadow map onto the **Scene**.
 
 There is no 'one size fits all' setup for **Shadow Mapping**. It is invariably a matter of tweaking and adjusting to achieve the desired visual result for your **Scene**, as well as meeting the _performance_ requirements of your **Project**.
 
@@ -60,7 +58,7 @@ There is no 'one size fits all' setup for **Shadow Mapping**. It is invariably a
 
 ### Kernel Size
 
-`Kernel Size` relates to the size of each sampled area during the calculation. It is a fairly complex subject, but it basically affects the smoothness of the shadow map. Lower levels give crisp, but jagged, shadows; higher levels give smoother, but less defined results.
+`Kernel Size` relates to the size of each sampled area during the calculation. It affects the smoothness of the shadow map. Lower levels give crisp, but jagged, shadows; higher levels give smoother, but less defined results.
 
 Increased `Kernel Size` may help improve results that suffer from _shadow acne_ or reduce artifacts in cases where the shadow map `Resolution` is low.
 
@@ -74,7 +72,7 @@ As stated above, **Shadow Mapping** takes passes from the **Light's** perspectiv
 
 ### Offset
 
-`Offset` offsets the depth of the shadow map and can massively improve its appearance by reducing _shadow acne_. It is recommended that you increase this value by very small increments \(0.0001\), until you get an acceptable reduction in artifacts.
+`Offset` offsets the depth of the shadow map and can improve its appearance by reducing _shadow acne_. It is recommended that you increase this value by very small increments \(0.0001\), until you get an acceptable reduction in artifacts.
 
 Due to the effect `Offset` has on the **Shadow Mapping** algorithm, higher values can cause shadows to appear to become disconnected from the geometry that casts them.
 
