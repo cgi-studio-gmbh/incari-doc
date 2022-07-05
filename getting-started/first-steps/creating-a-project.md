@@ -18,7 +18,7 @@ The options to customize the new **Project** are the following:
 **Project**
 
  * Name: A relevant title for the **Project**. It will also be used for creating the **Project's** folder structure.
- * Location: The location in your computer where the **Project** will be saved.
+ * Location: The location on your computer where the **Project** will be saved.
  * Open with version: The **Incari Studio** version with which the **Project** will be created. It offers a drop-down Menu of all the installed versions.
  * Create default Screen & Scene: Whether the **Project** will be created with default **Screen** and **Scene** or not. When this is enabled, the following options appear.
   
