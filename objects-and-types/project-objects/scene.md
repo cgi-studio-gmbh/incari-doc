@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/iconscene.png)
 
-A **Scene** is a collection of **Objects** that represent different unique places within your *User Interface*, such as Menus, maps and media players. Each **Scene** has its own _3D_ space, with the **Size** and **Resolution** being determined by the **Attributes** of the **Screen** that it is assigned to.
+A **Scene** is a collection of **Objects** that represent different unique places within your *User Interface*, such as menus, maps and media players. Each **Scene** has its own _3D_ space. The **Size** and **Resolution** of each space are determined by the **Attributes** of the **Screen** that it is assigned to.
 
 The **Scene Object** doesn't have any **Attributes** of its own, unlike every _other_ **Object** in **Incari**.
 
