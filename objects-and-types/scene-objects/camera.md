@@ -6,7 +6,7 @@ The relationship between `Size` and `Resolution` can be thought of as being like
 
 Similarly, `Resolution` defines, in pixels, the resolution of the targeted display, while `Size` defines the dimensions of the area of *3D* space, that will be shown on that display. If `Size` and `Resolution` are different values, then the image will be stretched and/or squashed. This may be okay for _3D_ elements, but _2D_ graphics are made up of pixels, and will have lower resolution when scaled up.
 
-It is therefore recommended that you set `Size` to be the exact same value as `Resolution`, or at least, the same _ratio,_ unless you have a good reason for doing otherwise.
+It is therefore recommended that you set `Size` to be the exact same value as `Resolution`, or at least the same _ratio,_ unless you have a good reason for doing otherwise.
 
 ![](../../.gitbook/assets/camerasizeandresolution.gif)
 
