@@ -1,6 +1,6 @@
 # Incari Studio
 
-After creating a **Project** from **Incari Hub**, **Incari Studio** starts and loads this newly created empty **Project**.
+After creating a **Project** from **Incari Hub**, **Incari Studio** starts and automatically loads this newly created empty **Project**.
 
 The *Interface* is composed of the **Viewport** and the **Modules**. The **Viewport** contains what will be displayed when the **Project** is played and the different **Modules** offer distinct functionalities to work in the **Project**. For a detailed description of each **Module**, see the **Modules** category of the **Documentation** on the left-hand side index. This page deals with all the possibilities that **Incari** offers in order to accommodate the user's preferences regarding the *Interface*.  
 
