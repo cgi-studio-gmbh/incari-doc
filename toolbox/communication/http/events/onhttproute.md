@@ -1,5 +1,5 @@
 ---
-description: Methods `PUT`, `DELETE`, and `HEAD` available since 2022.1.2
+description: Methods PUT, DELETE, and HEAD available since 2022.1.2
 ---
 # On HTTP Route
 
@@ -38,7 +38,7 @@ The **Node** changes with each **Route** added. Please refer to the [example](on
 
 To better demonstrate the differences between the `Methods` and how that translates to changes in the **Node**, please refer to the following image:
 
-![On HTTP Route Node](../../../../.gitbook/assets/onhttproutenodeexample%20-%20Copy.png)
+![On HTTP Route Node](../../../../.gitbook/assets/onhttproutenodeexample.png)
 
 Every `Method`creates a new **Output Pulse** for that specific `Method`, along with the provided *URL* given in the **Attributes** section. If there are multiple `Methods`, some **Outputs** are shared. These are `Headers`, `Query`, and `Request ID`, which appear at the bottom of the **Node**. For the `Methods` that return the **String Output** `Body`, a separate `Body` **Output** is created for each. 
 

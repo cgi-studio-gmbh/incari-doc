@@ -1,5 +1,5 @@
 ---
-description: Methods `PUT`, `DELETE`, and `HEAD` available since 2022.1.2
+description: Methods PUT, DELETE, and HEAD available since 2022.1.2
 ---
 
 # HTTP Client
