@@ -7,7 +7,9 @@ For installation and licensing of **Incari Studio**, please follow these steps:
 
 * Register in the **Incari** [website](https://www.incari.com/my-account/) and then activate your account from your e-mail.
 
-![Registration page in incari.com](../.gitbook/assets/website-register.png)
+<!-- ![Registration page in incari.com](../.gitbook/assets/website-register.png) -->
+
+![Registration page in incari.com](../.gitbook/assets/incari_accoun1.png)
 
 * After activating your account, log-in, and go to Downloads. Here you can download **Incari Hub**.
 
