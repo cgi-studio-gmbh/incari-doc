@@ -10,4 +10,4 @@ The two images below show an **On-Screen Keyboard2D** in the viewport of **Incar
 
 There are several **Nodes** attributed to the **On-Screen Keyboard2D**. More informaton can be found [here](../../../toolbox/incari/on-screenkeyboard/README.md) and [here.](../../../toolbox/events/on-screenkeyboard/README.md)
 
-Additionally, the **Project Settings** allow the user to add different [keyboard *layouts*.](../../../modules/project-settings.md#keyboard) 
+Additionally, the **Project Settings** allow the user to add different [keyboard *layouts*.](../../../modules/project-settings/keyboard.md) 
