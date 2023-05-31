@@ -26,5 +26,5 @@ The usefulness of **Modules** is evident, as they keep **Incari Studio's** *Inte
 * [**Plugins**](plugins/README.md)
 * [**Profiler View**](profiler-view.md)
 * [**Project Outliner**](project-outliner.md)
-* [**Project Settings**](project-settings.md)
+* [**Project Settings**](project-settings/README.md)
 * [**Scene Outliner**](scene-outliner.md)
