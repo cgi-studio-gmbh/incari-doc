@@ -641,5 +641,5 @@
 * [Image Sequence Button Animation](demo-projects/image-sequence-button-animation.md)
 * [Prefabs](demo-projects/prefabs-demo.md)
 * [Project Initialization](demo-projects/project-initialization.md)
-* [Widgets](demo-projects/widgets.md)
+<!-- * [Widgets](demo-projects/widgets.md) -->
 <!-- * [Custom Keyboard](demo-projects/keyboard.md) -->
