@@ -108,9 +108,9 @@ This part of the **Logic** runs only when the time has first been initialized. T
 
 ![](../.gitbook/assets/clock-secondhandticking.png)
 
-Whenever the '**currentSecond**' **Variable** changes, that new value is used to calculate the starting and ending position of the second hand when it ticks. The starting position of the hand is the current time, and the ending position is the current time `+ 1`. The [**Interpolate**](broken-reference) **Node** is used to output a smooth transition from one number to the next across a period of time. This is what will animate the hand to make it “tick".
+Whenever the '**currentSecond**' **Variable** changes, that new value is used to calculate the starting and ending position of the second hand when it ticks. The starting position of the hand is the current time, and the ending position is the current time `+ 1`. The [**Interpolate**](../toolbox/math/interpolate.md) **Node** is used to output a smooth transition from one number to the next across a period of time. This is what will animate the hand to make it “tick".
 
-The [**Interpolate**](broken-reference) **Node** has a few different **Attributes** that we can tweak to achieve a certain look:
+The [**Interpolate**](../toolbox/math/interpolate.md) **Node** has a few different **Attributes** that we can tweak to achieve a certain look:
 
 * `Duration` - how long the interpolation takes.
 *   `Interval Time` - how long each sub-unit of time is. For example, if we have a duration of 10 seconds and an interval time of 1 second, then **Interpolate** will output 10 values across 10 seconds:
@@ -130,11 +130,11 @@ The [**Interpolate**](broken-reference) **Node** has a few different **Attribute
 
 ![](../.gitbook/assets/clock-timetorotation.png)
 
-The time value is remapped to a _rotation_ value (_degrees_) using a custom '**convertTimeToRotation**' **Function**; this is done for seconds, minutes and hours. This [**Function**](../toolbox/functions/) takes the time value, remaps the value using a [**Range Mapper**](broken-reference) **Node**, and converts those values to a [**Vector3**](../objects-and-types/data-types/vector3.md) value.
+The time value is remapped to a _rotation_ value (_degrees_) using a custom '**convertTimeToRotation**' **Function**; this is done for seconds, minutes and hours. This [**Function**](../toolbox/functions/) takes the time value, remaps the value using a [**Range Mapper**](../toolbox/math/range-mapper.md) **Node**, and converts those values to a [**Vector3**](../objects-and-types/data-types/vector3.md) value.
 
 ![convertTimetoRotation Function.](../.gitbook/assets/clock-converttimefunction.png)
 
-The [**Range Mapper**](broken-reference) **Node** needs a maximum value of the time, meaning the number that equals one full revolution around the clockface (seconds = 60; minutes = 60; hours = 12). It then uses that maximum and remaps the value to a new maximum of 360 (for 360 degrees in a circle). This gives the _degree of rotation_ for the current time.
+The [**Range Mapper**](../toolbox/math/range-mapper.md) **Node** needs a maximum value of the time, meaning the number that equals one full revolution around the clockface (seconds = 60; minutes = 60; hours = 12). It then uses that maximum and remaps the value to a new maximum of 360 (for 360 degrees in a circle). This gives the _degree of rotation_ for the current time.
 
 ![](../.gitbook/assets/clock-mapnode.png)
 

@@ -12,4 +12,4 @@
 * [**Input**](../modules/logic-editor.md#sockets): **Node** **Sockets** that receive data or **Pulses**.
 * [**Output**](../modules/logic-editor.md#sockets): **Node** **Sockets** that send data or **Pulses**.
 * [**Attributes**](attributes/): Collection of customizable characteristics of **Objects**, **Nodes**, **Screens**, and **Scenes**.
-* [**Euclidean division**](broken-reference): Process of dividing one integer by another, producing a quotient and a remainder.
+* [**Euclidean division**](../toolbox/math/divide.md): Process of dividing one integer by another, producing a quotient and a remainder.

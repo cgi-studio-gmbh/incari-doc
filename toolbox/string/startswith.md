@@ -34,7 +34,7 @@ The **StartsWith Node** checks if a **String** starts with a _substring_, or `Pa
 
 ## See Also
 
-* [**EndsWith**](broken-reference)
+* [**EndsWith**](endswith.md)
 
 ## External Links
 

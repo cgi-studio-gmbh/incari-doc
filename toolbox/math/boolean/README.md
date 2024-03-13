@@ -8,23 +8,23 @@ Although **Booleans** themselves are conceptually simple, and take up very littl
 
 ## Boolean Value
 
-The [**Bool Value Node**](broken-reference) simply stores a **Boolean** value in its internal _state_, which can be defined before the **Project**'s execution and can be modified and retrieved at runtime.
+The [**Bool Value Node**](bool-value.md) simply stores a **Boolean** value in its internal _state_, which can be defined before the **Project**'s execution and can be modified and retrieved at runtime.
 
 ## Logical Operator Nodes
 
 _Logical operator_ **Nodes** combine two or more **Boolean** expressions to yield a **Boolean** value based on the inputs' logical relationship to one another. These are:
 
-* [**AND**](broken-reference) - Returns _true_ if all of the **Node**'s inputs are also _true_. The equivalent of the `&&` operator in computer programming.
-* [**OR**](broken-reference) - Returns _true_ if at least one of the **Node**'s inputs are _true_. The equivalent of the `||` operator in computer programming.
+* [**AND**](and.md) - Returns _true_ if all of the **Node**'s inputs are also _true_. The equivalent of the `&&` operator in computer programming.
+* [**OR**](or.md) - Returns _true_ if at least one of the **Node**'s inputs are _true_. The equivalent of the `||` operator in computer programming.
 
-There is also the [**Negate Node**](broken-reference), whose output is simply the **Boolean** value _opposite_ to its input. This is used to mean _NOT_ and is the equivalent of the `!` operator in computer programming.
+There is also the [**Negate Node**](negate.md), whose output is simply the **Boolean** value _opposite_ to its input. This is used to mean _NOT_ and is the equivalent of the `!` operator in computer programming.
 
 ## Contents
 
-* [**AND**](broken-reference)
-* [**Bool Value**](broken-reference)
-* [**Negate**](broken-reference)
-* [**OR**](broken-reference)
+* [**AND**](and.md)
+* [**Bool Value**](bool-value.mde)
+* [**Negate**](negate.md)
+* [**OR**](or.md)
 
 ## External Links
 

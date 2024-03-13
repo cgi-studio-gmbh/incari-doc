@@ -6,17 +6,17 @@ _Trigonometric functions_ are used to calculate the acute angles and side length
 
 ## Trigonometric Functions
 
-* [**Sine**](broken-reference) - Returns the _sine_ of an input value.
-* [**Cosine**](broken-reference) - Returns the _cosine_ of an input value.
-* [**Tangent**](broken-reference) - Returns the _tangent_ of an input value.
+* [**Sine**](sine.md) - Returns the _sine_ of an input value.
+* [**Cosine**](cosine.md) - Returns the _cosine_ of an input value.
+* [**Tangent**](tangent.md) - Returns the _tangent_ of an input value.
 
 ## Inverse Trigonometric Functions
 
-* [**Arc Sine**](broken-reference) - Returns the _arcsine_ of an input value.
-* [**Arc Cosine**](broken-reference) - Returns the _arccosine_ of an input value.
-* [**Arc Tangent**](broken-reference) - Returns the _arctangent_ of an input value.
-* [**Arc Tangent 2**](broken-reference) - Returns the _two-argument arctangent_ of two input values.
+* [**Arc Sine**](arc-sine.md) - Returns the _arcsine_ of an input value.
+* [**Arc Cosine**](arc-cosine.md) - Returns the _arccosine_ of an input value.
+* [**Arc Tangent**](arc-tangent.md) - Returns the _arctangent_ of an input value.
+* [**Arc Tangent 2**](arc-tangent2.md) - Returns the _two-argument arctangent_ of two input values.
 
 ## Converters
 
-* [**Radian-Degree Converter**](broken-reference) - Converts radians to degrees or degrees to radians.
+* [**Radian-Degree Converter**](radian-degree-converter.md) - Converts radians to degrees or degrees to radians.

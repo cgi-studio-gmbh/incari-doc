@@ -9,7 +9,7 @@
 1. `IsGreater` - Whether the value of `A` is greater than the value of `B`.
 2. `IsGreaterEqual` - Whether the value of `A` is greater than _or_ equal to the value of `B`.
 
-_Relational expressions_ are frequently used in combination with **Branch Nodes** and _logical operator_ **Nodes** ([**AND**](broken-reference), [**OR**](broken-reference), and [**Negate**](broken-reference)) to create _conditional logic_, and are essential for building complex systems.
+_Relational expressions_ are frequently used in combination with **Branch Nodes** and _logical operator_ **Nodes** ([**AND**](../math/boolean/and.md), [**OR**](../math/boolean/or.md), and [**Negate**](../math/boolean/negate.md)) to create _conditional logic_, and are essential for building complex systems.
 
 Due to their nature, _inequality_ operations only work for _numerical data types_.
 
