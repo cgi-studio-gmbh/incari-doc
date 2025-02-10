@@ -12,7 +12,6 @@ The **Array Value** **Node** defines an **Array** by setting its elements.
 
 ![The Array Value Node Attributes](../../.gitbook/assets/arrayvalueattributes.png)
 
-### Inputs
 
 `Inputs` - The number of **Input** elements you wish to add to the **Attribute section**. Each **Input** element represents a value that is added to the **Array Value** **Node**. The values in this section are used if no values are provided to the **Input** **Node**. The format of the section is as follows:
 

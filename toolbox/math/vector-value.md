@@ -12,16 +12,10 @@ The **Vector Value** **Node** generates a **Vector**. It can either be a **Vecto
 
 ![The Vector Value Node Attributes.](../../.gitbook/assets/node-vector-value2-attr.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Data Type` | **Drop-down** | Whether a **Vector2**, **Vector3**, or **Vector4** will be generated. |
-
-### Default
-
-| Attribute | Type | Description |
-| :--- | :--- | :--- |
 | `Value` | _Defined in the `Data Type` **Attribute**_ | The `Value` that the generated **Vector** will have. |
 
 ## Inputs

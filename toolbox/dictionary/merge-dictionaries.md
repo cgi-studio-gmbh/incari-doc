@@ -14,8 +14,6 @@ In the case that two or more of the **Dictionaries** to be merged have the same 
 
 ![The Merge Dictionaries Node Attributes.](../../.gitbook/assets/mergedictionariesattributes.png)
 
-### Inputs
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Count` | **Int** | The number of **Dictionaries** you wish to merge. The default number is 2 **Dictionaries**. |

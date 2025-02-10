@@ -12,7 +12,6 @@ The **Interpolate** **Node** calculates intermediate values between an initial a
 
 ![The Interpolate Node Attributes.](../../.gitbook/assets/node-interpolate2-attr.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
@@ -21,11 +20,6 @@ The **Interpolate** **Node** calculates intermediate values between an initial a
 | `Interval Time (s)` | **Float** | How frequently the interpolated value is updated and the output **Pulse** is triggered. |
 | `From` | _Defined in the `Data Type` **Attribute**_ | The value at the start of the interpolation, if one is not provided in the `From` **Socket**. |
 | `To` | _Defined in the `Data Type` **Attribute**_ | The value at the end of the interpolation, if one is not provided in the `To` **Socket**. |
-
-### Interpolation
-
-| Attribute | Type | Description |
-| :--- | :--- | :--- |
 | `Type` | **Drop-down** | Method used for calculating the intermediate values. |
 | `Mode` | **Drop-down** | Whether the interpolation will be performed once, repeated or alternated. |
 

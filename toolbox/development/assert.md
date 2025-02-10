@@ -12,7 +12,6 @@ The **Assert** **Node** compares two values and outputs the result of the compar
 
 ![The Assert Node Attributes.](../../.gitbook/assets/assertattributes.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

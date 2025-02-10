@@ -10,7 +10,6 @@ The **MatchRegex** **Node** allows one to search a **String** for a certain patt
 
 ![The MatchRegex Node Attributes.](../../.gitbook/assets/matchregexattributes.png)
 
-## Inputs
 
 |Attribute|Type|Description|
 |---|---|---|

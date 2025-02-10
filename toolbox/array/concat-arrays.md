@@ -14,7 +14,6 @@ Note that the **Arrays** that are to be merged by this **Node** are not sorted.
 
 ![The Concat Arrays Node Attributes](../../.gitbook/assets/concatarrayattributes.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

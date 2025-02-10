@@ -12,7 +12,6 @@ The **Dictionary Value Node** defines a **Dictionary** by setting its _\(key, va
 
 ![The Dictionary Value Node Attributes.](../../.gitbook/assets/dictionaryvalueattributeupdate.png)
 
-### Inputs
 
 `Inputs` - The number of **Input** elements you wish to add to the **Attribute section**. Each **Input** element represents a _\(key, value\)_ pair that is added to the **Dictionary Value** **Node**. The pairs in this section are used if no **Dictionary** is provided to the **Input** **Node**. The format of the section is the following:
 

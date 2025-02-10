@@ -14,7 +14,6 @@ It is comparable to the `++` operator in computer science, except for the fact t
 
 ![The Increment Node Attributes.](../../.gitbook/assets/node-increment2-attr.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

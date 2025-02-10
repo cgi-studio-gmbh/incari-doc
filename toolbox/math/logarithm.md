@@ -14,8 +14,6 @@ This is the inverse function of the [**Power Node**](power.md). Rather than taki
 
 ![The Logarithm Node Attributes.](../../.gitbook/assets/node-logarithm2-attr.png)
 
-### Inputs
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Base` | **Drop-down** | A selection of common bases used in logarithm functions, which are: `2` \(binary\), `e` \(natural\), or `10` \(common\), as well as a `Custom` option, for defining a custom _base_ value. |

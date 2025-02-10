@@ -12,8 +12,6 @@ The **Console** **Node** is used for showing a value of any **Data Type** on the
 
 ![The Console Node Attributes.](../../.gitbook/assets/consoleattributes.png)
 
-### Inputs
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Data Type` | **Drop-down** | **Data Type** of the `Input` and `Output` **Sockets**. |

@@ -13,16 +13,9 @@ The **Call JavaScript Function** **Node** executes a JavaScript function that is
 ![The Call JavaScript Function Node Attributes.](../../.gitbook/assets/javascriptcallbackfuncattsupdatedimage.png)
 
 
-### Function
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `JS Function Name` | **String** | Name of the function to be executed, if none is given in the `Function name` **Input Socket**. |
-
-### Inputs
-
-| Attribute | Type | Description |
-| :--- | :--- | :--- |
 | `Parameters [n]` | **Drop-down** | Label, **Data Type**, and default value of the parameters given to the function. |
 
 ## Inputs

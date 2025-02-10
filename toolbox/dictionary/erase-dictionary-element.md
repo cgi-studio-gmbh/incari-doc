@@ -12,8 +12,6 @@ The **Erase Dictionary Element Node** removes one or more elements from a **Dict
 
 ![The Erase Dictionary Element Node Attributes.](../../.gitbook/assets/dictionaryelementeraseattributesupdate.png)
 
-### Inputs
-
 `Inputs` - The number of elements you wish to remove from the **Input** **Dictionary**. Each element has the following **Attribute**:
 
 | Attribute | Type | Description |

@@ -10,7 +10,6 @@ The **Compare** **Node** compares two **Strings** and outputs the result indicat
 
 ![The Compare Node Attributes.](../../.gitbook/assets/compareattributes.png)
 
-## Inputs
 
 |Attribute|Type|Description|
 |---|---|---|

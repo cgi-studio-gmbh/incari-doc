@@ -10,8 +10,6 @@ The **Lower** **Node** converts a **String** to lowercase letters.
 
 ![The Lower Node Attributes.](../../.gitbook/assets/lowerattributes.png)
 
-## Inputs
-
 |Attribute|Type|Description|
 |---|---|---|
 | `String` | **String** | The **String** to be converted to lowercase, if none is received in the **Input Socket**.|

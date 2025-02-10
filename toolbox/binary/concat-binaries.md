@@ -12,7 +12,6 @@
 
 ![The Concat Binaries Node Attributes.](../../.gitbook/assets/concatbinariesattributes.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

@@ -14,8 +14,6 @@ If the `Key` does not exist in the **Dictionary**, it creates a new \(`Key`, `Va
 
 ![The Set Dictionary Element Node Attributes.](../../.gitbook/assets/setdictionaryelementattributesupdate.png)
 
-### Inputs
-
 `Inputs` - The number of elements you wish to set the value of. Each **Input** element has the following **Attributes**:
 
 | Attribute | Type | Description |

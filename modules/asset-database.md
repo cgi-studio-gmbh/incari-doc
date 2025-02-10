@@ -9,7 +9,7 @@ In summary, the **Asset Database** shows two sets of **Assets**:
 * **Assets** that are currently used in the **Project**. These are added automatically when used in the **Project**.
 * **Assets** that are available to be used in the **Project** at runtime. These have to be added manually from the [**Asset Manager**](asset-manager.md).
 
-![](../.gitbook/assets/asset-db1.png)
+![](../.gitbook/assets/assetdatabase120241.png)
 
 For each **Asset**, the **Asset Database** displays the following information:
 
@@ -36,7 +36,7 @@ There are three ways in which **Assets** can be added to the **Asset Database**:
 
 Using an **Asset** automatically adds it to the **Asset Database**.
 
-![](../.gitbook/assets/asset-db-addtoproject.gif)
+![](../.gitbook/assets/assetdatabase220241.gif)
 
 ### Manually
 
@@ -50,7 +50,7 @@ There are three special cases:
 
 * **Materials** are automatically added to the **Asset Database** when created in the [**Asset Manager**](asset-manager.md).
 
-![](../.gitbook/assets/asset-db-addmanually.gif)
+![](../.gitbook/assets/assetdatabase320241.gif)
 
 ### At runtime using Logic
 
@@ -60,7 +60,7 @@ There are three special cases:
 
 See in the image below a simple example of how to add an **Asset** to the **Asset Database** in the **Logic**, using, besides the **Add to Asset Database** **Node**, the [**String Value** **Node**](../toolbox/string/stringvalue.md):
 
-![](../.gitbook/assets/assetdb-in-logic2.png)
+![](../.gitbook/assets/assetdatabase420241.png)
 
 
 ## Features
@@ -72,25 +72,25 @@ The **Asset Database** offers several features that are useful for managing **As
 The search bar on the top right of the **Asset Database** allows the user to search **Assets** by either `ID` or `Label`.
 
 
-![](../.gitbook/assets/assetdb-search.gif)
+![](../.gitbook/assets/assetdatabase520241.gif)
 
 ### Filter
 
 The filter on the top right of the **Asset Database** allows the user to filter the **Assets** by `Type`.
 
-![](../.gitbook/assets/assetdb-filter.gif)
+![](../.gitbook/assets/assetdatabase620241.gif)
 
 ### Highlight use
 
 By clicking on the `ID` of an **Asset**, its use in the **Scene Outliner** and **Viewport** will be highlighted.
 
-![](../.gitbook/assets/assetdatabasehighlightuse20232.gif)
+![](../.gitbook/assets/assetdatabase720241.gif)
 
 ### Highlight in Asset Manager
 
 By clicking on the magnifying glass on an **Asset** entry, this **Asset** will be highlighted in the **Asset Manager**.
 
-![](../.gitbook/assets/assetdb-highlight.gif)
+![](../.gitbook/assets/assetdatabase820241.gif)
 
 ### Remove
 
@@ -100,7 +100,7 @@ If an **Asset** was not manually added to the **Asset Database** (it was added o
 
 However, if the **Asset** was manually dragged into the **Asset Database** and there are no current useages of the **Asset**, it will remain in the **Database** but the counter will reach 0. 
 
-![](../.gitbook/assets/assetdb-remove.gif)
+![](../.gitbook/assets/assetdatabase920241.gif)
 
 ### In Logic Editor
 

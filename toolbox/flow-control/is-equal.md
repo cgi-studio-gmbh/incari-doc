@@ -17,7 +17,6 @@ _Relational expressions_ are frequently used in combination with **Branch Nodes*
 
 ![The Is Equal Node Attributes.](../../.gitbook/assets/isequalattributes.png)
 
-### Inputs
 
 | Attribute         | Type                                          | Description                                                             |
 | ----------------- | --------------------------------------------- | ----------------------------------------------------------------------- |

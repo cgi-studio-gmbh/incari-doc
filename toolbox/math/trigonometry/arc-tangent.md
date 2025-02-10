@@ -12,16 +12,9 @@ The **Arc Tangent Node** takes a single **Float** value and returns its $$arctan
 
 ![The Arc Tangent Node Attributes.](../../../.gitbook/assets/node-arc-tangent2-attr.png)
 
-### Miscellaneous
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Is Degree` | **Bool** | Determines whether the `Output` value is given in degrees \(°\) or radians \(rad\). |
-
-### Inputs
-
-| Attribute | Type | Description |
-| :--- | :--- | :--- |
 | `Default Value` | **Float** | The default value of `Input`, if no value is provided in the `Input` **Socket**. |
 
 ## Inputs

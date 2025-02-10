@@ -12,7 +12,6 @@ The **Rotation Matrix** **Node** receives three angles as inputs and generates a
 
 ![The Rotation Matrix Node Attributes.](../../.gitbook/assets/node-rotation-matrix2-attr.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

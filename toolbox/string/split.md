@@ -14,7 +14,6 @@ In the case that the delimiter is not contained in the **String** to separate, t
 
 ![The Split Node Attributes.](../../.gitbook/assets/splitattributes.png)
 
-## Inputs
 
 |Attribute|Type|Description|
 |---|---|---|

@@ -19,7 +19,6 @@ Due to their nature, _inequality_ operations only work for _numerical data types
 
 ![The Is Greater Equal Node Attributes.](../../.gitbook/assets/isgreaterequalattributes.png)
 
-### Inputs
 
 | Attribute         | Type                                          | Description                                                             |
 | ----------------- | --------------------------------------------- | ----------------------------------------------------------------------- |

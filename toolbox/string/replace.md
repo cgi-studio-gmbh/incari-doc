@@ -16,8 +16,6 @@ For example, if the inputs are: `String`=`ababab`, `From`=`a`, and `To`=`C`; the
 
 ![The Replace Node Attributes.](../../.gitbook/assets/replaceattributes.png)
 
-## Inputs
-
 |Attribute|Type|Description|
 |---|---|---|
 | `String` | **String** | **String** whose *substring* will be replaced, if none is given in the **Input Socket**. |

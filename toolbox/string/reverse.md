@@ -12,7 +12,6 @@ For example, if the **Input** is "dog", the **Output** will be "god".
 
 ![The Reverse Node Attributes.](../../.gitbook/assets/reverseattributes.png)
 
-## Inputs
 
 |Attribute|Type|Description|
 |---|---|---|

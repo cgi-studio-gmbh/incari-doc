@@ -14,8 +14,6 @@ The _arithmetic mean_ is the _sum_ of all values in a set, divided by the total 
 
 ![The Average Node Attributes.](../../.gitbook/assets/node-average2-attr.png)
 
-### Inputs
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Default Inputs` | **Float** | The number of `Input` **Sockets** and their default values, if they have no data connected to them. |

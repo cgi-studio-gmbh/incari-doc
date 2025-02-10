@@ -12,7 +12,6 @@
 
 ![The Branch Node Attributes.](../../.gitbook/assets/branchattributes.png)
 
-### Inputs
 
 | Attribute       | Type     | Description                                                          |
 | --------------- | -------- | -------------------------------------------------------------------- |

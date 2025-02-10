@@ -10,7 +10,7 @@ The **Contains** **Node** receives two **Strings** and checks whether one is a *
 
 ![The Contains Node Attributes.](../../.gitbook/assets/containsattributes.png)
 
-## Inputs
+
 
 |Attribute|Type|Description|
 |---|---|---|

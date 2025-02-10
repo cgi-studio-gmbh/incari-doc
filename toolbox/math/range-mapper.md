@@ -21,7 +21,6 @@ In the event that `Input` is outside of the reference \(input\) range, `Clamp` d
 
 ![The Range Mapper Node Attributes.](../../.gitbook/assets/node-range-mapper2-attr.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

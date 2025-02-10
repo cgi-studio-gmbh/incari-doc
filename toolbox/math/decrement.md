@@ -14,7 +14,6 @@ It is comparable to the `--` operator in computer science, except for the fact t
 
 ![The Decrement Node Attributes.](../../.gitbook/assets/node-decrement2-attr.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

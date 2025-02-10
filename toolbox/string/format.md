@@ -15,17 +15,10 @@ A more detailed description of [format specifiers](#format-specifiers) and [usag
 
 ![The Format Node Attributes.](../../.gitbook/assets/formatattributes.png)
 
-## Inputs
-
 |Attribute|Type|Description|
 |---|---|---|
 | `Default Pattern` | **String** | The **Pattern String**, if none is given in the `Pattern` **Input Socket**. |
-
-## Arguments
-
-|Attribute|Type|Description|
-|---|---|---|
-| `Parameter [n]` | **Drop-down** | The parameter value, if none is given in the corresponding **Input Socket**.  |
+| `Argument [n]` | **Drop-down** | The parameter value, if none is given in the corresponding **Input Socket**.  |
 
 # Inputs
 

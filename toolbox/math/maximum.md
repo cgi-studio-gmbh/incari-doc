@@ -14,8 +14,6 @@ In case of **Vectors**, it compares the values by component and returns them sep
 
 ![The Maximum Node Attributes.](../../.gitbook/assets/node-maximum2-attr.png)
 
-### Inputs
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Data Type` | **Drop-down** | The data type of all `Input` and `Output` **Sockets**. |

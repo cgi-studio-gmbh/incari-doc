@@ -10,7 +10,6 @@ The **ReplaceRegex** **Node** allows the user to replace parts of a **String** u
 
 ![The ReplaceRegex Node Attributes.](../../.gitbook/assets/replaceregexattributes.png)
 
-## Inputs
 
 |Attribute|Type|Description|
 |---|---|---|

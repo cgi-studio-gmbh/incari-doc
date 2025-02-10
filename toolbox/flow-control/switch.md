@@ -11,7 +11,6 @@
 ## Attributes
 
 ![The Switch Node Attributes.](../../.gitbook/assets/switchattributesactual.png)
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

@@ -10,7 +10,7 @@ The **Upper** **Node** converts a **String** to uppercase letters.
 
 ![The Upper Node Attributes.](../../.gitbook/assets/upperattributes.png)
 
-## Inputs
+
 
 |Attribute|Type|Description|
 |---|---|---|

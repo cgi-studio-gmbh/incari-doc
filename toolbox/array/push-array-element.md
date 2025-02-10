@@ -14,21 +14,12 @@ If no **Array** is given as input, the elements are added to a new, empty **Arra
 
 ![The Push Array Element Node Attributes](../../.gitbook/assets/pusharrayelementattributes.png)
 
-### Inputs
-
 `Inputs` - The number of **Input** elements you wish to add to the **Input** **Array**. Each element has the following **Attributes**:
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Data Type` | **Drop-down** | The `Data Type` of the element you wish to add the **Input** **Array**. |
 | `Default Value` | _Defined in the_ `Data Type` _**Attribute**_. | A `Default Value` you wish to add to the **Array** if no value is provided to the **Input** **Socket**. |
-
-### Mode
-
-The `Mode` is a toggle that determines whether element/s will be added to the front or back of the **Array**.
-
-| Attribute | Type | Description |
-| :--- | :--- | :--- |
 | `Add to end` | **Bool** | If the toggle is switched on, the desired element is added to the back of the **Array** otherwise it will be added to the front of the **Array**. |
 
 ## Inputs

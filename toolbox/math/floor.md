@@ -12,7 +12,6 @@
 
 ![The Floor Node Attributes.](../../.gitbook/assets/node-floor2-attr.png)
 
-### Inputs
 
 | Attribute | Type | Description |
 | :--- | :--- | :--- |

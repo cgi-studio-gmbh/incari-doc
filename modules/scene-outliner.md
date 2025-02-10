@@ -4,11 +4,11 @@ The **Scene Outliner** contains the list of every [**Object**](../objects-and-ty
 
 <div>
 
-<figure><img src="../.gitbook/assets/scene-outliner_2_1.png" alt=""><figcaption><p>Scene Outliner.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sceneoutliner120241.png" alt=""><figcaption><p>Scene Outliner.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/scene-outliner_2_2.png" alt=""><figcaption><p>Pop-up menu with options to manage Objects.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sceneoutliner220241.png" alt=""><figcaption><p>Pop-up menu with options to manage Objects.</p></figcaption></figure>
 
 </div>
 
@@ -33,11 +33,11 @@ New **Objects** can be created in the following ways:
 
 <div>
 
-<figure><img src="../.gitbook/assets/sceneoutlinercreate1again.png" alt=""><figcaption><p>Creating an Object with the plus icon.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sceneoutliner320241.png" alt=""><figcaption><p>Creating an Object with the plus icon.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/sceneoutlinercreate2again.png" alt=""><figcaption><p>Creating an Object from the pop-up menu.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sceneoutliner420241.png" alt=""><figcaption><p>Creating an Object from the pop-up menu.</p></figcaption></figure>
 
 </div>
 
@@ -51,15 +51,15 @@ The pop-up menu that appears by right-clicking on the **Scene Outliner** offers 
 
 <div>
 
-<figure><img src="../.gitbook/assets/scene-outliner-makeprefab.gif" alt=""><figcaption><p>Creating a Prefab from Objects in the Scene.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sceneoutliner520241.gif" alt=""><figcaption><p>Creating a Prefab from Objects in the Scene.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/scene-outliner-unpackprefab.gif" alt=""><figcaption><p>Unpacking a Prefab.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sceneoutliner620241.gif" alt=""><figcaption><p>Unpacking a Prefab.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/scene-outliner-editprefab.gif" alt=""><figcaption><p>Creating an Object from the pop-up menu.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sceneoutliner720241.gif" alt=""><figcaption><p>Creating an Object from the pop-up menu.</p></figcaption></figure>
 
 </div>
 
@@ -69,19 +69,19 @@ For more details, see the [**Prefabs**](../objects-and-types/prefabs/) section.
 
 An **Object** in the current **Scene** can be duplicated by right-clicking it on the **Scene Outliner** and selecting `Duplicate`.
 
-![Duplicating an Object.](../.gitbook/assets/sceneoutlinerduplicate.gif)
+![Duplicating an Object.](../.gitbook/assets/sceneoutliner820241.gif)
 
 ## Copy, Cut, and Paste
 
 **Objects** can be cut or copied and then pasted in another **Scene**.
 
-![Cutting, copying, and pasting Objects.](../.gitbook/assets/scene-outliner-cutcopypaste.gif)
+![Cutting, copying, and pasting Objects.](../.gitbook/assets/sceneoutliner920241.gif)
 
 ## Rename
 
 **Objects** can be renamed by right-clicking an item and selecting `Rename`. You can then type a new name and press **`⏎`**/`Return` to confirm the change.
 
-![Renaming an Object.](../.gitbook/assets/sceneoutlinerrename.gif)
+![Renaming an Object.](../.gitbook/assets/sceneoutliner1020241.gif)
 
 ## Delete
 
@@ -90,7 +90,7 @@ An **Object** in the current **Scene** can be duplicated by right-clicking it on
 * Right-click on an item and select the `Delete` button from the pop-up.
 * Select an item and press `del`.
 
-![Deleting an Object.](../.gitbook/assets/scene-outliner-delete.gif)
+![Deleting an Object.](../.gitbook/assets/sceneoutliner1120241.gif)
 
 ## Show and Hide
 
@@ -100,25 +100,25 @@ To hide an **Object**, click on the eye icon at the right of it.
 
 And to show a hidden **Object**, click on the crossed out eye icon at the right of it.
 
-![](../.gitbook/assets/show-and-hide-cropped.gif)
+![](../.gitbook/assets/sceneoutliner1220241.gif)
 
 ## Search
 
 The `Search` option allows the user to search **Objects** in a **Scene** by name. To perform a search, click the magnifying glass icon on the top right, and write the name of the **Object** to search.
 
-![Searching Objects by name.](../.gitbook/assets/scene-outliner-search.gif)
+![Searching Objects by name.](../.gitbook/assets/sceneoutliner1320241.gif)
 
 ## Filter
 
 The `Filter` option allows the user to filter **Objects** in a **Scene** by type. To apply a filter, click the filter icon on the top right, and select the types to filter from the drop-down menu. After a filter has been applied, it can be removed with the `Reset` button.
 
-![Filtering Objects by type.](../.gitbook/assets/sceneoutlinersearch.gif)
+![Filtering Objects by type.](../.gitbook/assets/sceneoutliner1420241.gif)
 
 ## Frame Selected
 
 Sometimes one gets lost in a **Project**. It is now easier than ever to refocus on a particular **Object**. The user just needs to locate that **Object** in the **Scene Outliner**, right-click, and select `Frame Selected`. This can also be achieved by simply pressing the `F` key. 
 
-![Frame Selected Example.](../.gitbook/assets/focusexample.gif)
+![Frame Selected Example.](../.gitbook/assets/sceneoutliner1520241.gif)
 
 
 

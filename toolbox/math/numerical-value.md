@@ -12,8 +12,6 @@ The **Numerical Value** **Node** generates a number, which can either be an **In
 
 ![The Numerical Value Node Attributes.](../../.gitbook/assets/node-numerical-value2-attr.png)
 
-### Inputs
-
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `Data Type` | **Drop-down** | Whether an **Int**, **Float**, or **Byte** will be generated. |

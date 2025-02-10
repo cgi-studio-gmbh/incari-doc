@@ -15,7 +15,6 @@ See more about [*format specifiers*](format.md#format-specifiers) and [*usage ex
 
 ![The FormatArray Node Attributes.](../../.gitbook/assets/formatarrayattributes.png)
 
-## Inputs
 
 |Attribute|Type|Description|
 |---|---|---|
